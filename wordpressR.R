@@ -1,4 +1,5 @@
-# Code initially provided by John Muschelli
+# Code initially provided by John Muschelli and inspired by
+# Yihui at http://yihui.name/knitr/demo/wordpress/
 # Modified by Jean-Philippe Fortin / 2014 /May 19 
 
 
